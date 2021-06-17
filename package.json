@@ -1,0 +1,15 @@
+{
+  "name": "figma-portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "vite"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^2.1.4",
+    "vite": "^2.3.7"
+  }
+}
